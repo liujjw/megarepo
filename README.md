@@ -1,2 +1,2 @@
 # megarepo
-Mega repo of random projects
+Mega repo of unsorted projects
