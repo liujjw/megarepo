@@ -1,0 +1,4 @@
+name eat-and-bud world
+size 10 10
+
+critter eat-and-bud.txt 5 5 1

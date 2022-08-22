@@ -1,0 +1,341 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<link rel="stylesheet" href="style.css" type="text/css">
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="Start" href="index.html">
+<link rel="previous" href="ArrayMatrix.html">
+<link rel="next" href="Main.html">
+<link rel="Up" href="index.html">
+<link title="Index of types" rel=Appendix href="index_types.html">
+<link title="Index of values" rel=Appendix href="index_values.html">
+<link title="Index of modules" rel=Appendix href="index_modules.html">
+<link title="Matrix" rel="Chapter" href="Matrix.html">
+<link title="Analytic" rel="Chapter" href="Analytic.html">
+<link title="ArrayMatrix" rel="Chapter" href="ArrayMatrix.html">
+<link title="Ast" rel="Chapter" href="Ast.html">
+<link title="Main" rel="Chapter" href="Main.html">
+<link title="MonoAnalytic" rel="Chapter" href="MonoAnalytic.html">
+<link title="Repl" rel="Chapter" href="Repl.html"><title>Ast</title>
+</head>
+<body>
+<div class="navbar"><a class="pre" href="ArrayMatrix.html" title="ArrayMatrix">Previous</a>
+&nbsp;<a class="up" href="index.html" title="Index">Up</a>
+&nbsp;<a class="post" href="Main.html" title="Main">Next</a>
+</div>
+<h1>Module <a href="type_Ast.html">Ast</a></h1>
+
+<pre><span id="MODULEAst"><span class="keyword">module</span> Ast</span>: <code class="code">sig</code> <a href="Ast.html">..</a> <code class="code">end</code></pre><div class="info module top">
+<div class="info-desc">
+<p>Contains types for an abstract syntax tree.</p>
+</div>
+</div>
+<hr width="100%">
+
+<pre><code><span id="TYPEbop"><span class="keyword">type</span> <code class="type"></code>bop</span> = </code></pre><table class="typetable">
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTbop.Add"><span class="constructor">Add</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTbop.Mult"><span class="constructor">Mult</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTbop.Sub"><span class="constructor">Sub</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTbop.Div"><span class="constructor">Div</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTbop.Exp"><span class="constructor">Exp</span></span></code></td>
+
+</tr></table>
+
+<div class="info ">
+<div class="info-desc">
+<p>The type of binary operators.</p>
+</div>
+</div>
+
+
+<pre><code><span id="TYPEuop"><span class="keyword">type</span> <code class="type"></code>uop</span> = </code></pre><table class="typetable">
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTuop.Sin"><span class="constructor">Sin</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTuop.Cos"><span class="constructor">Cos</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTuop.Tan"><span class="constructor">Tan</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTuop.ASin"><span class="constructor">ASin</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTuop.ACos"><span class="constructor">ACos</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTuop.ATan"><span class="constructor">ATan</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTuop.LogE"><span class="constructor">LogE</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTuop.Root"><span class="constructor">Root</span></span></code></td>
+
+</tr></table>
+
+<div class="info ">
+<div class="info-desc">
+<p>Type of unary operators .</p>
+</div>
+</div>
+
+
+<pre><code><span id="TYPEmop"><span class="keyword">type</span> <code class="type"></code>mop</span> = </code></pre><table class="typetable">
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTmop.Tran"><span class="constructor">Tran</span></span></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTmop.Rand"><span class="constructor">Rand</span></span></code></td>
+
+</tr></table>
+
+<div class="info ">
+<div class="info-desc">
+<p>Type of unary matrix operators.</p>
+</div>
+</div>
+
+
+<pre><code><span id="TYPEnum"><span class="keyword">type</span> <code class="type"></code>num</span> = {</code></pre><table class="typetable">
+<tr>
+<td align="left" valign="top" >
+<code>&nbsp;&nbsp;</code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTnum.converted">converted</span>&nbsp;: <code class="type">bool</code>;</code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code>&nbsp;&nbsp;</code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTnum.value">value</span>&nbsp;: <code class="type">float</code>;</code></td>
+
+</tr></table>
+}
+
+<div class="info ">
+<div class="info-desc">
+<p>The type of "Numbers".</p>
+</div>
+</div>
+
+
+<pre><code><span id="TYPEf_expr"><span class="keyword">type</span> <code class="type"></code>f_expr</span> = </code></pre><table class="typetable">
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTf_expr.FVarM"><span class="constructor">FVarM</span></span> <span class="keyword">of</span> <code class="type">string * int</code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTf_expr.FVarS"><span class="constructor">FVarS</span></span> <span class="keyword">of</span> <code class="type">string</code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTf_expr.FConst"><span class="constructor">FConst</span></span> <span class="keyword">of</span> <code class="type"><a href="Ast.html#TYPEnum">num</a></code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTf_expr.FBinop"><span class="constructor">FBinop</span></span> <span class="keyword">of</span> <code class="type"><a href="Ast.html#TYPEbop">bop</a> * <a href="Ast.html#TYPEf_expr">f_expr</a> * <a href="Ast.html#TYPEf_expr">f_expr</a></code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTf_expr.FUop"><span class="constructor">FUop</span></span> <span class="keyword">of</span> <code class="type"><a href="Ast.html#TYPEuop">uop</a> * <a href="Ast.html#TYPEf_expr">f_expr</a></code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTf_expr.FNil"><span class="constructor">FNil</span></span></code></td>
+
+</tr></table>
+
+<div class="info ">
+<div class="info-desc">
+<p>The type of the AST along with expr.</p>
+</div>
+</div>
+
+
+<pre><code><span id="TYPEexpr"><span class="keyword">type</span> <code class="type"></code>expr</span> = </code></pre><table class="typetable">
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTexpr.Number"><span class="constructor">Number</span></span> <span class="keyword">of</span> <code class="type"><a href="Ast.html#TYPEnum">num</a></code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTexpr.Binop"><span class="constructor">Binop</span></span> <span class="keyword">of</span> <code class="type"><a href="Ast.html#TYPEbop">bop</a> * <a href="Ast.html#TYPEexpr">expr</a> * <a href="Ast.html#TYPEexpr">expr</a></code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTexpr.Matrix"><span class="constructor">Matrix</span></span> <span class="keyword">of</span> <code class="type"><a href="Ast.html#TYPEexpr">expr</a> list</code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTexpr.Let_o"><span class="constructor">Let_o</span></span> <span class="keyword">of</span> <code class="type">string * <a href="Ast.html#TYPEexpr">expr</a> * <a href="Ast.html#TYPEexpr">expr</a></code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTexpr.Let"><span class="constructor">Let</span></span> <span class="keyword">of</span> <code class="type">string * <a href="Ast.html#TYPEexpr">expr</a></code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTexpr.Var"><span class="constructor">Var</span></span> <span class="keyword">of</span> <code class="type">string</code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTexpr.AnalyticFunc"><span class="constructor">AnalyticFunc</span></span> <span class="keyword">of</span> <code class="type">string * <a href="Ast.html#TYPEf_expr">f_expr</a></code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTexpr.EvalAnalyticFuncM"><span class="constructor">EvalAnalyticFuncM</span></span> <span class="keyword">of</span> <code class="type">string * <a href="Ast.html#TYPEexpr">expr</a> list</code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTexpr.EvalAnalyticFuncS"><span class="constructor">EvalAnalyticFuncS</span></span> <span class="keyword">of</span> <code class="type">string * <a href="Ast.html#TYPEnum">num</a></code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTexpr.CRoot"><span class="constructor">CRoot</span></span> <span class="keyword">of</span> <code class="type">string * int</code></code></td>
+
+</tr>
+<tr>
+<td align="left" valign="top" >
+<code><span class="keyword">|</span></code></td>
+<td align="left" valign="top" >
+<code><span id="TYPEELTexpr.Matop"><span class="constructor">Matop</span></span> <span class="keyword">of</span> <code class="type"><a href="Ast.html#TYPEmop">mop</a> * <a href="Ast.html#TYPEexpr">expr</a> list</code></code></td>
+
+</tr></table>
+
+<div class="info ">
+<div class="info-desc">
+<p>The type of the abstract syntax tree (AST).</p>
+</div>
+</div>
+
+
+<pre><span id="VALto_num"><span class="keyword">val</span> to_num</span> : <code class="type">string -> <a href="Ast.html#TYPEnum">num</a></code></pre><div class="info ">
+<div class="info-desc">
+<p><code class="code">to_num s</code> is the num representation of a string <code class="code">s</code>.</p>
+</div>
+</div>
+
+<pre><span id="VALto_int"><span class="keyword">val</span> to_int</span> : <code class="type"><a href="Ast.html#TYPEnum">num</a> -> int</code></pre><div class="info ">
+<div class="info-desc">
+<p><code class="code">to_int s</code> is the int representation of a num <code class="code">s</code> 
+    Requires: <code class="code">s.value</code> is between 1 and 16.</p>
+</div>
+</div>
+</body></html>

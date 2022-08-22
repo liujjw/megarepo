@@ -1,0 +1,33 @@
+species: eat-and-bud critter
+memsize: 10
+defense: 1
+offense: 1
+size: 10
+energy: 5000
+posture: 1
+
+POSTURE != 1 --> POSTURE:=1;
+// Buds when critter energy within 100 of max energy, it buds
+ENERGY > 500 * SIZE - 100 --> bud;
+// If food in front, reset all memory and eat it
+nearby[0] < -1 --> mem[7] := 0
+		   mem[8] := 0
+		   mem[9] := 1
+		   eat;
+{mem[9] = 1 and nearby[0] = 0} --> mem[9] := 0
+	       			   forward;
+{mem[9] = 1 and nearby[0] < 0} --> mem[9] := 0; 
+// if it couldn't move forward, just stop trying to
+mem[7] = 1 --> left;
+mem[8] = 1 --> right;
+nearby[1] < -1 --> mem[8] := 1 right;
+nearby[2] < -1 --> mem[8] := 1 right;
+nearby[3] < -1 --> mem[8] := 1 right;
+nearby[4] < -1 --> mem[7] := 1 left;
+nearby[5] < -1 --> mem[7] := 1 left;
+1=1 --> wait;
+
+// Key for additional mem slots
+// mem[7] - whether the critter should turn left
+// mem[8] - whether the critter should turn right
+// mem[9] - activated after eating, flags the critter to move forward

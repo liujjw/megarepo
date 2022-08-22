@@ -1,0 +1,42 @@
+species: spiral critter
+memsize: 10
+defense: 1
+offense: 1
+size: 10
+energy: 2000
+posture: 1
+
+POSTURE != 1 --> POSTURE:=1; // Redundant line, but follows critter style
+nearby[0] < -1 --> eat; // Eat when encountering food
+// At the first ring or after going around a whole ring
+mem[7]=0 or {mem[8]=5 and mem[9]=mem[7]} --> mem[7] := mem[7]+1
+						     mem[8] := -1
+						     mem[9] := 0
+						     forward;
+// Right after entering a new ring
+mem[8] = -1 --> mem[8] := 0
+		left;
+// Right after entering a new ring, the critter goes one less than a sidelength
+mem[8]=0 and mem[9]<mem[7]-1 --> mem[9] := mem[9]+1
+				 forward;
+// When it reaches a corner of the ring, it turns
+{mem[8]=0 and mem[9]=mem[7]-1} or mem[9]=mem[7] --> mem[9] := 0
+						    mem[8] := mem[8]+1
+						    left;
+// Otherwise it moves forward
+1 = 1 --> mem[9]:=mem[9]+1
+	  forward;
+
+// The stats at the top are the simplest values that minimize energy use 
+// for moving and turning. Energy is basically infinite, but it may run out.
+// We also needed 3 additional memory slots, requiring a memsize of 10.
+
+// As for the critter program, the following are what memory slots mean:
+// mem[7] -- ring number: 0 for first hex, 1 for first actual ring, etc.
+// mem[8] -- number of turns made in the current ring
+// mem[9] -- the number of moves (forward steps) made since the last turn
+// The first hex (the hex the critter spawns on) has a ring number of 0, 
+// the first actual "ring" has a ring number of 1, and so on. The full 
+// sidelength of a given ring is equal to its ring number.
+
+

@@ -1,0 +1,17 @@
+We imported Prof. Foster's interpreter lecture  
+demo code as a starting point; this cloc'ed 
+in at 108 lines of non-comment code. The (total LOC - 108) is our net LOC for 
+which we claim full credit.
+
+All accredidations: 
+
+Starter code for calculator: Lecture 16-18 demo code 
+
+parser.mly : support for parsing nested lists was learned from 
+https://dev.realworldocaml.org/parsing-with-ocamllex-and-menhir.html
+
+arrayMatrix.ml : pseudocode for row reduction algorithm was learned from 
+https://en.wikipedia.org/wiki/Gaussian_elimination
+
+Pseudocode and starter implementation for row reduction also adapted from
+http://rosettacode.org/wiki/Reduced_row_echelon_form 

@@ -1,0 +1,2336 @@
+commit a098a87764c8c5fff7ac25d8ecf47a245fa46451
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 23:42:43 2019 -0500
+
+    final commit
+
+commit 00a85363169327ed1741a90ca22a1e1e39186dab
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 23:35:27 2019 -0500
+
+    asdifjs
+
+commit 86b29d18e405a2ab292deb985d2c0e47968ecf0d
+Merge: b6c974e 8eff1aa
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 23:30:35 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit b6c974e0e5d6da7274f120b2705827d0bba8c6f2
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 23:30:28 2019 -0500
+
+    ifdjos
+
+commit 8eff1aa172afcb78c74505b3c0786ef2159e6f64
+Merge: 5468976 c82a8be
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 23:28:22 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 54689764d338b7682cf5a35b6b2d1b260566e0ae
+Merge: cfb44fc c4a884c
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 23:28:17 2019 -0500
+
+    a
+
+commit c82a8be3af86863b68b01494b2f8350d3cce6f6f
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 23:14:31 2019 -0500
+
+    dfs
+
+commit cfb44fc1914023de541d87dfa061cc09e3ab4e84
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 23:13:36 2019 -0500
+
+    adw
+
+commit c4a884c4a4b5fd2b2da7a2ae3ffcb0bcb9a9edd2
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 23:12:19 2019 -0500
+
+    ifd
+
+commit d2be2db44dffce59968c3bb2b901a7b20fbefd47
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 23:03:55 2019 -0500
+
+    made mostly functional selection code
+
+commit 3c97bec85888b16f1cdc474631b19f213b7b9475
+Merge: b2abac8 216b546
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 21:57:54 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit b2abac8fca8b1956caf0547740c4b74e6dd8d639
+Merge: cc15fcf e41082b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 21:57:51 2019 -0500
+
+    ads
+
+commit 216b546bb372fed89c79148163342e6c3ae3892c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 21:57:30 2019 -0500
+
+    djf
+
+commit cc15fcf9302d2bb0e7f197fb7d63a37e275f3dc3
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 21:49:36 2019 -0500
+
+    asd
+
+commit e41082b049a55c1ccf6a78066e37c0c55b6e9106
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 21:49:23 2019 -0500
+
+    dioajf
+
+commit 0e99b55d8cdbaef1142cbeee8e687fa53f1ad535
+Merge: c913113 125f58b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 21:27:53 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit c913113f85bcb2df629e8ba317b540cf9433d67d
+Merge: 72933ba 8532505
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 21:27:46 2019 -0500
+
+    das
+
+commit 125f58bdc77c8f7a50df7fef8efc1686b4399e06
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 21:27:38 2019 -0500
+
+    iuoafdj
+
+commit 72933ba563dbb59a52a94f8d9eb8daae69bc44b8
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 21:27:12 2019 -0500
+
+    sa
+
+commit 8532505502fd21fdffc1b3958c94fd57c9417c61
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 21:27:00 2019 -0500
+
+    added subsection test
+
+commit 6db0fa3fa9489052f85dd3342de8982cf3010d3c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 21:26:32 2019 -0500
+
+    added subsection test
+
+commit 7e98cb1974fc952a119eeac0f8708d8aee7a17b9
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 21:08:50 2019 -0500
+
+    removed print statements
+
+commit e559d7fd0f77e6f1fae9c10d3f5b3d0413ca6155
+Merge: 86ebe44 34cce6e
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 21:06:16 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 86ebe444167123dcb9168f57fb38014272fcab3b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 21:06:12 2019 -0500
+
+    asda
+
+commit 34cce6e5da89898449b1c7795ed97809656c9b94
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 21:06:05 2019 -0500
+
+    ijod
+
+commit 7cdaa6d8fda41ac82d3ada6f2af1223ca51d53cb
+Merge: afb6dee c5174af
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 21:00:35 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit afb6deee42453868bd48683d42d7da6806970849
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 21:00:33 2019 -0500
+
+    adaw
+
+commit c5174afaacb7bb981cb6409bc92ed20f151e6075
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 21:00:18 2019 -0500
+
+    iajodf
+
+commit 6dbda4b4baba76f1383fe27f31789ff700e63b55
+Merge: 0ac9f5b 2587ad0
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 20:48:00 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 2587ad0c0a28715a579a1b1ee085fe04aba371da
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 20:47:51 2019 -0500
+
+    fixed stuff
+
+commit 0ac9f5b6c0aefe768b09996818af9fe91b84d0f9
+Merge: 82599c0 5fd14d7
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 20:47:12 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 82599c000592df3b3aaf41789a1340f197b73edc
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 20:47:07 2019 -0500
+
+    he
+
+commit 5fd14d772a1df120fe5d3e28b1561d11e70c50ad
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 20:24:12 2019 -0500
+
+    should update food label now
+
+commit 6c7869d7a9ad8d923ffe14fc35e971912037053d
+Merge: bc4720c bf8dcfd
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 20:17:02 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit bc4720ccb88ae5acc4e3a9c09edb3e3806d7ad8c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 20:16:59 2019 -0500
+
+    jioafjd
+
+commit bf8dcfde6278fbd5ebedb494a84e29f379e1860c
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 20:16:40 2019 -0500
+
+    ada
+
+commit 3acdcaf8a6ac14a48f1e9ed07cab5d2026267f5e
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 20:02:40 2019 -0500
+
+    mpm
+
+commit 610e8e7640e0291fd16208417736cb0140362314
+Merge: 61d37ec 453831f
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 19:58:18 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 61d37ec0050edc35864149f72de703211ba5cb37
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 19:58:13 2019 -0500
+
+    dad
+
+commit 453831f6e01f58ea02b12a1b667335f5fe8a042b
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 19:57:55 2019 -0500
+
+    updated slider from server
+
+commit 47c5bb75da982f937dd22bfc061646d2dc38e62c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 19:48:03 2019 -0500
+
+    fixed one thing in server
+
+commit 291c6ce77a4409ecdd5cd230fd138e52d2c26887
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 19:37:06 2019 -0500
+
+    more changes
+
+commit c36671287c8c58db6b9d323e678d10304caf54ba
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 19:29:32 2019 -0500
+
+    updated some rendering stuff
+
+commit 5fc6b125288c01c4afe7d19618c2990e7af9d788
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 19:14:24 2019 -0500
+
+    added some more null pointer checks
+
+commit 2c5295ff553fc9e92a5e54bf2c48528c4df41289
+Merge: 0309baa 2cbf96d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 19:11:34 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 0309baab673e3b7fbb1a616f9b6999382b02f8fa
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 19:11:25 2019 -0500
+
+    checked for info being null
+
+commit 2cbf96d5ca0a28ece60037b90370fd6b90a52275
+Merge: 04a7333 6e4c2e2
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 19:07:35 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 04a73334667c33384876bb5862a32343902c0372
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 19:07:32 2019 -0500
+
+    asfd
+
+commit 6e4c2e2120ce6d25f9f7e2e6a773d5cf65c54fa3
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 19:06:17 2019 -0500
+
+    made lastdraw array in HexGridRender Integer rather than int so as to have null
+
+commit 43607007714b0e594607281a3509af94bc59d644
+Merge: 447fe7e ab41b6a
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 17:54:53 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 447fe7edce00e2bd75fd87a347f09fe31bc7a4a1
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 17:54:47 2019 -0500
+
+    fixed error in random world creation that forgot a new line
+
+commit ab41b6aed1f2eeeccc62a6de423c5d34d8d45bb8
+Merge: bd34eca a22704c
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 17:48:01 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit bd34eca298422db040f8ce58d092207fc72b7b26
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 17:47:59 2019 -0500
+
+    client
+
+commit a22704c6dd149ad374e0d4be723ae13a2fa20015
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 17:44:04 2019 -0500
+
+    added lots more tests to server, believe it is foolproof now
+
+commit b46b741d1c226f90f48b83f2471400ab1c65c37c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 16:25:30 2019 -0500
+
+    moved things to helpers class, found bugs in server
+
+commit a7f4edd79d772f1b42fbe9f205a4aa975449e3bb
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 12:15:26 2019 -0500
+
+    separated application launching from server launching. Use main.MainServerGUI with same args to launch the appropriate one
+
+commit 3039c6973ef896ee7a1264790da06dd78085f8ea
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 12:14:55 2019 -0500
+
+    separated application launching from server launching. Use main.MainServerGUI with same args to launch the appropriate one
+
+commit 52734b9290edd3b8bde878ca079bcd9cad500bd4
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 11:57:34 2019 -0500
+
+    added functionality so that server supplies last slash if not existing already
+
+commit 1f1af0854255f00dc14c46fb66bc0f41c34f2d47
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 11:52:51 2019 -0500
+
+    hopefully fixed selectedhex functionality
+
+commit 952f1e43d09a3376d07911b9c24aa814c96e7c7b
+Merge: 1affd1f 749024a
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 11:39:56 2019 -0500
+
+    added some more slider functionality
+
+commit 1affd1f58a77f01e221bb3f3be65b4bb3ef176a1
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 11:34:03 2019 -0500
+
+    put in slider functionality
+
+commit 749024a72ec99b82c6bac80f2aed9c193a65f2ff
+Merge: de20ad4 efc89af
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 11:12:43 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit de20ad49d77c866b950a59c360e6d7f795c949a9
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 11:12:37 2019 -0500
+
+    client work
+
+commit efc89afb08aa95187b2e7ff28b1ca289addf6cc2
+Merge: 1c8bd14 316273b
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 10:50:53 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 1c8bd141b0b33b3248295a7c65fbe2798cb13c1f
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 10:50:49 2019 -0500
+
+    continued updating server
+
+commit 316273b0298f8fa7e520956d28ba63d26447f9b5
+Merge: 347b24a 3ce0d4d
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 01:19:09 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 347b24acffb3960d612f80966167c8ef64305b4f
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 10 01:19:00 2019 -0500
+
+    fix admin command
+
+commit 3ce0d4d442c4fb7e31b6046140e38e4b7d33a05d
+Merge: bb7ee5f d8efb42
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 00:23:32 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit bb7ee5f208c383063e5f1ff9112bca0284f7a873
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Dec 10 00:23:19 2019 -0500
+
+    made more updates to server + client, in the middle of debugging
+
+commit d8efb42595ddcd41deba094bde80a6f325968338
+Merge: 7f0a764 eccb4d9
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Dec 9 23:54:08 2019 -0500
+
+    merge
+
+commit 7f0a76497edfdf05bbafad5647f3ec55125b2e70
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Dec 9 23:51:49 2019 -0500
+
+    client
+
+commit eccb4d96334cc1410946017cff969ec2ca6201e6
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 23:40:52 2019 -0500
+
+    added more UI functionality
+
+commit 8fec60181a23faecf8d6b9dca5df09b5b366d272
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 23:29:11 2019 -0500
+
+    added a bunch more rendering code, hopefully finished critter loading, added thread stoppage. All untested
+
+commit 117a47a2f292c0249208aad893f384115d4667e4
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 19:50:08 2019 -0500
+
+    began implementing loadCritter
+
+commit db94974e7a12da6a9ee4408e7f66260a2ae09527
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 19:08:39 2019 -0500
+
+    continued integrating client
+
+commit 02e35c1e2fdedf1dc87f7bcfe1fb34f8b8b6c25f
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 18:22:58 2019 -0500
+
+    made updates to CritterworldGUI
+
+commit 32d1073d2988cc2e4c1e4f0f0027b29cb09d12f0
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 18:10:52 2019 -0500
+
+    added back critterworldclient
+
+commit b185d529bbdc9c236e377751bbe770c15f3bd3cf
+Merge: 8f49e08 0c3358c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 18:09:44 2019 -0500
+
+    fixed stufff
+
+commit 8f49e08edb4688f7533b5f20e2dbed81b9148a68
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 18:08:58 2019 -0500
+
+    added skeleton client classes
+
+commit 0c3358cea85abc011e5f24d510afe6d16e8f181a
+Author: samkantor123 <sammy@dhcp-gs-8779.redrover.cornell.edu>
+Date:   Mon Dec 9 17:32:38 2019 -0500
+
+    New critter world structure development
+    
+    New critter world structure development
+
+commit 39d5d095de07a3a8d54810f2e682d120a192c1f7
+Merge: 73e1a43 e81077d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 17:11:18 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 73e1a437902af3edbc02667bf199b07eecd7ebdd
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 17:11:11 2019 -0500
+
+    added clientWorld
+
+commit e81077dca4596bf41d27d7ef8bf706fd2d5a8a8b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Dec 9 16:44:31 2019 -0500
+
+    a
+
+commit 7e7f97f147a20539e0eb9c78e856168bfbc1565f
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 16:37:34 2019 -0500
+
+    added a bunch of validity checkers to JSON objects
+
+commit 179a5b19b33b601498e7fef0acc450ffc3d691e1
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 15:00:41 2019 -0500
+
+    added some tree parsing code to client
+
+commit a36937f6fdd5dbf4a447ddae00f1e2f2b1eda7c0
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Dec 9 14:39:55 2019 -0500
+
+    added better quit functionality
+
+commit f8e07c53591e398da9e699a4c3a946d69f4f479d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Dec 8 22:08:14 2019 -0500
+
+    working on server rate synchronicity
+
+commit 9368c0b738f200a903fe556cb7d41fa0aa453630
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Dec 8 17:13:43 2019 -0500
+
+    changed message on loadscreen to reflect the fact that it is no longer the entry screen
+
+commit 5d7057c22a1ddfa1394cbae048e06edcf90ace71
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Dec 8 17:01:28 2019 -0500
+
+    Updated a lot of UI functionality, solved a few bugs. Big commit here
+
+commit 798b8ee76ddde24e7dfc2e0fd0e3e90103ded1b9
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sat Dec 7 15:41:56 2019 -0500
+
+    fixed error in DistributedCritterWorld
+
+commit 5827625ac7761021a9518fa60c9b18eb50b77fe9
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sat Dec 7 15:38:17 2019 -0500
+
+    updated loginScreenController to accomodate passwords for different levels
+
+commit f28c562a033cdc4464d9022d12d31ed0b82f2736
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sat Dec 7 15:24:49 2019 -0500
+
+    added UI functionality for admin/write/read
+
+commit d21f0875433421ad483c7ecf7a322682201a8e97
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sat Dec 7 13:20:50 2019 -0500
+
+    updated thread functionality server
+
+commit 820106760d39a4e7ddbb6c38f3acef276823621d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Fri Dec 6 14:50:20 2019 -0500
+
+    fixed minor graphical bugs, need to implement transition to main screen
+
+commit a3a993cc45c9c544377e93aef5100f2c1b9f83cc
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Fri Dec 6 14:43:37 2019 -0500
+
+    continued integrating new loading screen
+
+commit c59a5a5e401d0600cca4c811f706eb9cb2722d64
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Fri Dec 6 14:03:42 2019 -0500
+
+    finished login scene and controller, made client methods static, began working on start() actions
+
+commit 8e0a5ebf56f63809b926696f02bc114cb89ec6a4
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Thu Dec 5 19:54:02 2019 -0500
+
+    updated some style in client
+
+commit b52e046bce6f775085fcd272cd83c37c0c311742
+Author: samkantor123 <sammy@dhcp-gs-6357.redrover.cornell.edu>
+Date:   Thu Dec 5 19:26:07 2019 -0500
+
+    Client Backend
+    
+    completed client-server communication methods :)
+
+commit 7b1a7723027998b7cc5c0e4bc8cb7f2b94612225
+Author: samkantor123 <sammy@dhcp-gs-6357.redrover.cornell.edu>
+Date:   Thu Dec 5 17:36:42 2019 -0500
+
+    added more url methods
+    
+    added more url methods
+
+commit bea3a1ab8504f5babe8a38ec1966a8c5d399da5a
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Thu Dec 5 14:02:43 2019 -0500
+
+    updated build.gradle to run jar
+
+commit 4601def916f7283822e675694fe7055ed218194b
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Thu Dec 5 13:40:49 2019 -0500
+
+    created main class
+
+commit 825314646a7f25500710ccf53e25973b17dc8c61
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Thu Dec 5 13:25:57 2019 -0500
+
+    finished server, untested
+
+commit bdc89e0325d1d3e0aa0a6d8231876d91573556c0
+Author: samkantor123 <sammy@dhcp-ccc-6391.redrover.cornell.edu>
+Date:   Wed Dec 4 22:57:54 2019 -0500
+
+    start
+    
+    start of work on client
+
+commit 7d705a6180ec0942312cffff8d8c4101fa7efdab
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Dec 4 22:55:25 2019 -0500
+
+    added loads more functionality to server, updated world to have list of all critter ids to critters
+
+commit b499308a9496d6f221d9867aa101cede9a545498
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Dec 4 15:55:39 2019 -0500
+
+    finished get/critter/id
+
+commit 7ed01e967430fd7bea9a9d56b9f19ca85352b659
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Dec 4 15:50:12 2019 -0500
+
+    added rule index functionality, kept working on server
+
+commit 4efc517b45949948afd9c346f6ea9302c8211e66
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Dec 4 15:35:04 2019 -0500
+
+    continued working on server, added more JSON/GSON classes, began implementing reentrant read/write locks in server
+
+commit 375e405cbb678ff5aba5a1543f2820c1bde6ee17
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Dec 4 11:59:56 2019 -0500
+
+    added critter ID, continued working on server, added a lot of JSON classes
+
+commit 8ebf8ba3380cead6e5bde55b88f24e023aa3a047
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Dec 4 00:27:49 2019 -0500
+
+    clean up ringbuffer
+
+commit e1cc884e21731ec94095b8a0280688d003db1025
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 3 21:44:02 2019 -0500
+
+    clean up ring buffer
+
+commit ab61625084557a7cecdc20223497b77057320a8b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Dec 3 20:14:30 2019 -0500
+
+    test for mate, diff color for bud crits
+
+commit eccfba4a19decc9c583a022eaceeefd7878a24e2
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Dec 2 20:55:13 2019 -0500
+
+    ring buffer passing tests
+
+commit 8c30d7db757a3e531f01959fd80496097221222d
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Dec 2 18:38:00 2019 -0500
+
+    all queue read/writes atomic
+
+commit fbb8a97914a0523aadfd4986ec6a0315144513cf
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Dec 2 18:05:18 2019 -0500
+
+    worked on ringbuffer, synchronize queue write
+
+commit 38b281ba1dbdbbb9f7aabb6401b71a9c9813e18d
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Dec 1 21:38:27 2019 -0500
+
+    fixed null pointer exception
+
+commit 8181e3f23f1c9bbe5337fadb68993f072b708138
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Dec 1 21:21:59 2019 -0500
+
+    search passing all tests made from figure 2 a7 spec
+
+commit 339d9348fa9aa300dcca541b75e1c730be0c284f
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Dec 1 19:48:13 2019 -0500
+
+    improved food sensing passed first test
+
+commit f83ddbc46280c125c99afced0d5ab0fca679ace5
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Dec 1 09:13:07 2019 -0500
+
+    debugging search
+
+commit d8d4445f6097b4b57c68b75c0bfd43a2a08e0073
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Dec 1 00:17:59 2019 -0500
+
+    changed getval for smell; added main smell test; overload loadonecritter; addedge failing
+
+commit 53f9ca37fab91541f85679d1ec3eff0074ec3aa0
+Merge: e99a331 7f4d649
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sat Nov 30 21:36:34 2019 -0600
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit e99a331cd5491f0c953663c5b03002bc668891f4
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sat Nov 30 21:36:26 2019 -0600
+
+    added classes, started server
+
+commit 7f4d6496bd47387236d7cbff11bd1479be48d2a3
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 30 18:37:29 2019 -0500
+
+    trying adj root initial  backpointer approach to recovering path; done and ready test search
+
+commit ce3b716486023a87412f87b9e4a9b92a89efcc01
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 30 15:25:55 2019 -0500
+
+    search done
+
+commit eb6f1a9cedd9ee7693cddc47f372d44c385dc435
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Fri Nov 29 20:09:19 2019 -0500
+
+    search nearly done
+
+commit 04740a1b7661ced8a6582e60a3f636fdc5f85704
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Fri Nov 29 18:55:06 2019 -0500
+
+    search
+
+commit db496436ddcec951bd8acb83efb4a68f0b1100eb
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Fri Nov 29 15:57:02 2019 -0500
+
+    worked on search
+
+commit 9a323c31e0ac21218bc39e45d89031872cba637d
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Fri Nov 29 14:27:04 2019 -0500
+
+    worked on search
+
+commit 2aadec520e405302162fb756023882867bafc416
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Thu Nov 28 15:30:44 2019 -0500
+
+    worked on sensing
+
+commit 19e16b1ff38aa520dce1e26f25288652635e393d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 26 00:21:12 2019 -0500
+
+    removed line of commented out code from HexGridRender
+
+commit 2ef7fd120551375a5b0d5ccb96179a52387bdaf2
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 26 00:20:39 2019 -0500
+
+    added draw functionality to redraw when critter size changes, not only direction
+
+commit 35f936fa8f9bc74452e40ac4cb4c8212fb6a2b53
+Merge: 4fc3d54 e8c39f1
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Nov 25 22:44:50 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 4fc3d54cc6fa66edcb7a755e852ae6b7b977536f
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Nov 25 22:44:43 2019 -0500
+
+    updated build.gradle
+
+commit e8c39f12fb7032b84da6f2e0f5b573b545003910
+Merge: 9870921 23138d3
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 25 21:45:10 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 987092138a8136820b65b0852948b1620d698cf9
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 25 21:45:04 2019 -0500
+
+    smell
+
+commit 23138d388474623566692e740cc8da1a2cf7a68f
+Merge: a7b98f4 cabb759
+Author: samkantor123 <sammy@dhcp-gs-8916.redrover.cornell.edu>
+Date:   Mon Nov 25 18:00:15 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit a7b98f4119f250200274ba1af01635dfb1a806ce
+Author: samkantor123 <sammy@dhcp-gs-8916.redrover.cornell.edu>
+Date:   Mon Nov 25 18:00:13 2019 -0500
+
+    Fixed minor issue with MoveN
+    
+    Fixed minor issue with MoveN
+    Sorry for the -1 boys :/
+
+commit cabb759bb051ae2e08b5634c53002bbe7f87bc47
+Merge: b439736 e572e8b
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Nov 25 16:43:28 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit b43973620744021200ee0aeb0b6f39b19968ceb1
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Nov 25 16:43:21 2019 -0500
+
+    fixed color to be much better
+
+commit e572e8b9b548e38a5cb6c8380c7fd4669384eeee
+Merge: 23c7a72 6d8c4b2
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 25 16:36:47 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 23c7a72841eb9a975e0803c8ea7e247f2caf9e7f
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 25 16:35:28 2019 -0500
+
+    fix bugs
+
+commit 6d8c4b210a102d801310894075a357ea1a2624dc
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Nov 25 16:13:44 2019 -0500
+
+    fixed parentheses thing
+
+commit 6be73f948b365ac62dd12be9487a3b09d3cf40ac
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Nov 25 16:04:17 2019 -0500
+
+    deleted unnecessary files
+
+commit 15b9b425242745d3c85de9d81683093469c29028
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 24 19:01:05 2019 -0500
+
+    not using monitor fine
+
+commit bb6388a8bbc6499f20dd046f52b0d2b47201762f
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 24 18:30:44 2019 -0500
+
+    about to try monitor
+
+commit e3db75acc5dc30ae44abee3006f65c24f80c4f2b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 24 17:46:30 2019 -0500
+
+    fix postiive rand this time
+
+commit 0df41ffacbba2d08f6c052409fa728a1433bf12b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 23 18:50:18 2019 -0500
+
+    fixed more bugs
+
+commit 7d702dd2b012d44ce5a497536e0d0024eee8fbdb
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 23 17:20:16 2019 -0500
+
+    clone program
+
+commit 46ad130e0c659b2d2c5d8b1f261078bf59fbb1e3
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 23 17:13:47 2019 -0500
+
+    fix same critter being placed onto world
+
+commit 3d2e02fd7f1f41cdfdc2ba226c3d24eb7afb48b4
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 23 16:52:22 2019 -0500
+
+    more bug fixes
+
+commit a50d7c2955581c48066cfc1ffcff0ea3bc0c726f
+Merge: 150a7c4 7bbde3f
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 23 12:03:55 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 150a7c4770b482727df2f4fb3e34d7576468204e
+Merge: 880e852 5946995
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 23 12:03:43 2019 -0500
+
+    fixed bugs
+
+commit 7bbde3f9ac9b872acb2c3ba4f4e9378533400fb5
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 20 00:09:40 2019 -0500
+
+    added try catch for colors
+
+commit f01891877d4c4195eb2729a98ebe974b84347bb5
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 23:10:13 2019 -0500
+
+    set printstream in critterworldUI
+
+commit 8295becc832e5fddd1e0eeaa9e7d14618cf88948
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 21:55:18 2019 -0500
+
+    fixed zoom
+
+commit 5946995b3c0f2c682213ee15b49cb18827bb9410
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 21:36:19 2019 -0500
+
+    fixed redraw functionality, added species -> color function
+
+commit 880e852a6a899aeb6f5883c6be538301de560b53
+Merge: 6ce096f 256080b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 20:32:43 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 6ce096f787c8ac81c9eab5949bc6a281420aabf7
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 20:32:38 2019 -0500
+
+    m
+
+commit 256080b785c7f3d0e77c5f25505d862352d969ca
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 20:32:05 2019 -0500
+
+    iojasdf;i
+
+commit 20d7a2ac92cddf4fe912d26bb74f68b8609a6265
+Merge: a1a0921 f3a9247
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 20:17:46 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit f3a9247e1670a0385ee3a40a4fd94f2a008f3172
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 20:17:39 2019 -0500
+
+    fixed > to >= in critter load'
+
+commit a1a0921bf93ca9ad8d6948eded3bb13c8cd4304c
+Merge: 74bd53b ceaefa5
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 20:17:01 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 74bd53b3fcd06a5d3ffe8b00665c48eb1d091b48
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 20:16:58 2019 -0500
+
+    a
+
+commit ceaefa53d21105da8875f2305c7874cd557c0f7d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 20:16:46 2019 -0500
+
+    fixed more errors
+
+commit a89bb767c23a896c03e50728272c8fe4f1658b14
+Merge: b35ecd3 ae5c1ab
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 20:00:26 2019 -0500
+
+    m
+
+commit b35ecd3ffc5a969932d046bc08e992455c9dc462
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 19:58:04 2019 -0500
+
+    changes
+
+commit ae5c1ab8adb9361f7da95f0ca74a7797f35d49ed
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 19:57:40 2019 -0500
+
+    stuff
+
+commit 3172ab8970689bbbc11099ca4c7dcb4ea50ddb70
+Merge: 41bee55 57ecebe
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 19:51:42 2019 -0500
+
+    merge
+
+commit 41bee55f8e69d05365bd243a7b1f0b398760cdd8
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 19:50:27 2019 -0500
+
+    merge
+
+commit 57ecebe87543b5679c459eaf2d8449b8af74274e
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 18:49:13 2019 -0500
+
+    fixed error in HexGridRender
+
+commit a5c3088115284f4260562549bb965be474f88512
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 18:20:28 2019 -0500
+
+    added some redraw functionality
+
+commit 532d62b1443a8bbf7170f0777a24de425b830b94
+Merge: 7eed921 27ff734
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 18:09:34 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 7eed921e107772e8eefc524792342d6d91543a55
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 18:09:27 2019 -0500
+
+    fixed world inversion
+
+commit 27ff73470fd64bb48408c80cce5b4fe9bd246eca
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 18:05:33 2019 -0500
+
+    stepping faster
+
+commit 016351d7edac425bdc37e4059d656575ca410bea
+Merge: 116430e ab6bb0a
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 17:54:31 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 116430eaddd3bb051185286c07ba5ccbb7a36dfb
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 17:54:27 2019 -0500
+
+    stepping
+
+commit ab6bb0a41b2e596ed238e2ff5ff3e46047a37e9f
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 17:53:11 2019 -0500
+
+    did some stuff
+
+commit c59907d9099deb73e97ae503190fdeddcd5039ae
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 17:13:17 2019 -0500
+
+    added stuff
+
+commit 06cd8cad0b8443649b847638f80a82920d24db94
+Merge: 20f5bf1 bcfdeab
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 16:31:25 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 20f5bf163e658a5222915bb2996207a976025aed
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 16:31:20 2019 -0500
+
+    ads
+
+commit bcfdeab4a363b2fb20bc84944ed1f9151a6bdada
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 16:30:58 2019 -0500
+
+    updated rendering dynamics, zoom functionality
+
+commit a291b8188979fc4df1ef0315a155d5de69a5c6fd
+Merge: 201d675 85b7d9f
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 13:04:41 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 85b7d9f3f27a951b583cac1bc0f4d64b715d2868
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 13:04:35 2019 -0500
+
+    updated controllerimpl error messages
+
+commit 201d6753eba21f02f105929f19afbcec510bfebd
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 13:04:31 2019 -0500
+
+    asdfg:
+
+commit f282427de5162b0a2093d3e837d4481a5420bb2c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 12:53:39 2019 -0500
+
+    working on functionality in rendering
+
+commit cbb5f56b102af779ca95e1370611f41ed93c1f28
+Merge: 34c03ba d53f11c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 12:29:21 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 34c03bab34abfdf3da0865c5225bea8207376833
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 12:29:16 2019 -0500
+
+    updated rendering functionality
+
+commit d53f11c067b2657f378769544539edc92c361dd2
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 19 12:14:01 2019 -0500
+
+    zoom uncomment
+
+commit f424db2093dd628127e10c2bdaa52919feec2d43
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 12:00:07 2019 -0500
+
+    updated rendering
+
+commit 729651b9da6e87273d36c2f72309c1b0ed8cd930
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 11:37:33 2019 -0500
+
+    fixed imports to run
+
+commit 543374ea690d9473c29596fa4e3c66df0151050d
+Merge: 9a319c0 9ebfbab
+Author: samkantor123 <sammy@dhcp-rhodes-1890.redrover.cornell.edu>
+Date:   Tue Nov 19 11:31:29 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 9a319c066bff5a27df964de5f38e53acd050fad5
+Author: samkantor123 <sammy@dhcp-rhodes-1890.redrover.cornell.edu>
+Date:   Tue Nov 19 11:31:25 2019 -0500
+
+    updated
+    
+    updated
+
+commit 9ebfbabe5c51b52f56bae9961606ce870525d86c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 10:09:58 2019 -0500
+
+    made main scrollpain non-pannable
+
+commit 0cc2f449e9bf0f0fc12217d29d32ebde4fd9aa77
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 00:23:47 2019 -0500
+
+    fixed popup confirm disable/enable functionality
+
+commit d7b64334426809f68adb79d41cf2278c9ba71749
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 19 00:16:38 2019 -0500
+
+    added ability for user to specify critter location from load
+
+commit fc9680214caea7521f8877859893824b06b5aa0e
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 23:04:36 2019 -0500
+
+    fix loadcritter, guimodel notifes for update)
+
+commit 80ec9a2dc17cab9d2d88b02348d04dd4e09465b8
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 22:26:29 2019 -0500
+
+    rate fix
+
+commit 9844a00863deb00c698d62c706e17c519a10fc73
+Merge: f6bc393 d8d0939
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 22:24:24 2019 -0500
+
+    merge
+
+commit f6bc3937ecd3d540b5f5584a6dc63525425ad810
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 22:22:02 2019 -0500
+
+    clean up
+
+commit d8d093933806552b35d681330b180223b8b1f24d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Nov 18 21:42:03 2019 -0500
+
+    updated play so that when 0 step/s, does same code as step
+
+commit a4077e8f0fb8fc8e4acd58118bb10b1804b5688b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 21:17:03 2019 -0500
+
+    fix fxml error
+
+commit 625b6e7b7439a1d983a56d9e9cbe017a8b684b8c
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 21:03:44 2019 -0500
+
+    zoom error, update draw
+
+commit f4027af34b2d326662eb4112939b7f31d1d0de3b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 20:53:39 2019 -0500
+
+    finish zoom, select critter
+
+commit 0444342aca22428a4c7a56f3eace79bef6d93663
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 20:04:41 2019 -0500
+
+    update draw
+
+commit 9c1189bc412cec53c56166be3a2b4354aeedfe85
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 19:05:43 2019 -0500
+
+    worked on crit selection, need hex locations
+
+commit 8661e533b80ad8b443169f785b4db24e04a54512
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 18:12:33 2019 -0500
+
+    update draw for critter info impl
+
+commit 4587a2a5d21a20de5c8dc1d1bd22555bf0485ba8
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 13:57:15 2019 -0500
+
+    clean up threads
+
+commit f3f3eabe2745707ef36dc0309eb2d626b9225658
+Merge: 99f8e12 09f0557
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 13:53:42 2019 -0500
+
+    merge
+
+commit 99f8e12f107443a0094d534340fe67c3a5af8f07
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 13:51:18 2019 -0500
+
+    labels about world
+
+commit 09f0557c41d3447f06ccd092b23633ebbf8a8a40
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Nov 18 13:07:21 2019 -0500
+
+    added javadoc comments to controller files and GUIModel
+
+commit 264326961f0f07dc3198c55c88349a120780324b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 11:50:33 2019 -0500
+
+    binding
+
+commit f1f947df9dfdc897ebf432f36d5d4ab35c0f92c3
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 11:28:30 2019 -0500
+
+    observer seems to work with simpledraw
+
+commit b605f0114091629ec00252d9de8fc9d253a48253
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 11:08:01 2019 -0500
+
+    observer testing
+
+commit a27976f78d333a085de99e393d34e7dd6e239aef
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 10:45:03 2019 -0500
+
+    worked on observer, update draw
+
+commit a6daf106522820fec0adaf26be02c492f9117e4d
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 18 01:36:11 2019 -0500
+
+    added observer
+
+commit 6bc41678504d425235622d237aa91ef20fb75d9b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 23:55:32 2019 -0500
+
+    time stepping seems to work
+
+commit 833f9b045fe7022d7f79a3e37e6da752db4c4116
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 23:28:23 2019 -0500
+
+    play/pause done, tested with console
+
+commit 7e1864cd949677ca4fb51466b56c0a04bc41b2a1
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 22:41:54 2019 -0500
+
+    finish continuous step, main -> critterworld
+
+commit 1bcd3688c8a91f506ad9960caacde236d6db7fd5
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 22:31:04 2019 -0500
+
+    worked on thread for model update
+
+commit 1bfa728527a9d761c4193b43f63c95afe7c1b864
+Merge: de44ebc af672e5
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 21:26:31 2019 -0500
+
+    merge
+
+commit de44ebc3e886b818b79efdf0a90f1ca44f43ae41
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 21:24:39 2019 -0500
+
+    handling play with thread
+
+commit af672e55487a6919d2a89c35b8d91faf54a2cf65
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 21:11:53 2019 -0500
+
+    forgot to save critterworld fxml
+
+commit 97205976e1a280d3a0e98834c2ba146c807534f1
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 21:08:17 2019 -0500
+
+    added confirmation to loading critters
+
+commit 87e3195c5666d4180ecae626478c31f065decc5e
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 20:15:44 2019 -0500
+
+    minor UI changes
+
+commit 8c833f0770fa51f4d8fbfbfdc65d3aeb72dcf36d
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 20:02:45 2019 -0500
+
+    uicontroller worked on
+
+commit 834d85ec346b00c51ef55ee722097e400250cf44
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 18:38:19 2019 -0500
+
+    simple draw
+
+commit 11a0fa8a093aeb7c46b286b999e7139b02ace131
+Merge: 324fd72 4375a57
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 18:10:58 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 324fd723b68cf38b000847c90928f539b5fc6f67
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 18:10:55 2019 -0500
+
+    worked on events
+
+commit 4375a57142a12b35066db19cf37b35137ef1fb4c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 18:06:36 2019 -0500
+
+    added confirmation window when selecting world. Needs debugging
+
+commit fb5a4cdcc06c3be43fc672fc5ea7b3eef69e2e7f
+Merge: d16a602 cb1c280
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 17:26:20 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit d16a602a7323ba691725d6dabf8cc04f99f06afc
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 17:26:14 2019 -0500
+
+    commit
+
+commit cb1c280a32ae4f4add3bd78891ec4bf351d0b758
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 17:25:44 2019 -0500
+
+    added confirmation window and controller
+
+commit 8060e6768ce45d91578191697ad40af25984c9e4
+Merge: 8fa38c4 c03596d
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 17:08:19 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 8fa38c437f1e83cb2a00ccb3d2cc3e6365aa2f90
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 17:08:13 2019 -0500
+
+    hexgridrender modified
+
+commit c03596df2f5002c513362d0fcaf0167c73696581
+Merge: c1ee357 b92a92a
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 16:24:51 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit c1ee3571083dcd12c2190a02efb1e89aef7ea7b5
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 16:24:40 2019 -0500
+
+    fixed typo in ControllerImpl no-args constructor
+
+commit b92a92afe746aceb0963da48ef458a6b1959e139
+Merge: 10e05b2 96152c5
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 16:07:48 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 10e05b2ff49de2503e70c726fd1b738e19ce9ab1
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 16:07:39 2019 -0500
+
+    worked on event handling
+
+commit 96152c59c6ce1857fd37d12b227fb92f1757bea1
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 16:06:43 2019 -0500
+
+    updated some more graphics
+
+commit b3c663adbc272e1f8ee4bb6ef728bfe9e344e92d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 15:47:49 2019 -0500
+
+    updated UI fxml
+
+commit c3032c34823984e272ae04a630d5ca0fc2def79b
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 15:37:54 2019 -0500
+
+    added canvas
+
+commit 56680cf5c915ee998bc7e81d07d68ce19241fab3
+Merge: 662876e 5f84878
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 15:28:57 2019 -0500
+
+    hopefully merged
+
+commit 662876e5511ada3a38e44ed4c60b7472ff4fad72
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 17 15:22:04 2019 -0500
+
+    added loading screen
+
+commit 5f84878bbb9d992aeb6bfba6af728bd6a88106e4
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 14:12:51 2019 -0500
+
+    moved files around to be consistent with mvc
+
+commit a47280e7b8fbb4ebc1fdc3b68aa1eaf5c52c9672
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 01:04:38 2019 -0500
+
+    deleted loadscreencontroller duplicate?
+
+commit 41195b78efe16b789cc64b000a916263c6a2e436
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 17 00:32:21 2019 -0500
+
+    changing around controller architecture in mvc
+
+commit 62935ca847410cea6b0ecf9b9b082ebce3fa0ed6
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sat Nov 16 20:42:21 2019 -0500
+
+    done lots of work on frontend and controllers
+
+commit fb6a55b5bba127703ba855cb0c6ddb544bf30477
+Author: samkantor123 <sammy@dhcp-gs-7101.redrover.cornell.edu>
+Date:   Fri Nov 15 01:54:37 2019 -0500
+
+    Draft drawing HEXES! :)
+    
+    Draft drawing HEXES! :)
+
+commit 24461caaf9f335812c6b5793c148a4dbc1434987
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 13 14:14:03 2019 -0500
+
+    fixed some gradle issues, made resources folder
+
+commit ab8eb4253025ea54aa05a8afeb29e017307bd172
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Nov 10 16:54:48 2019 -0500
+
+    created views package
+
+commit 2600b63729fe35e0d1e82fc908654ad534e7fa62
+Merge: 7bd2e1b 4344d34
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 9 14:51:22 2019 -0500
+
+    merge
+
+commit 7bd2e1b11b3d26c4572b7ef299ba99358cd1c667
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 9 14:48:36 2019 -0500
+
+    a6 build file added
+
+commit 4344d348301d60d5c8c7608cf17a83d30a191fdf
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Thu Nov 7 09:46:14 2019 -0500
+
+    fixed error where crit direction 0 wouldn't print. FINAL COMMIT FOR A5
+
+commit 8c255771e124933f9ed4ee3ba4e3d73ca5848beb
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 22:03:05 2019 -0500
+
+    deleted zips'
+
+commit 39bc178dba7ad0658ad6c701f6bf5411929da227
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 22:02:09 2019 -0500
+
+    added gitlog and diff
+
+commit 421e887e902cf1dd5901e7c29d9756fabb9cc020
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 21:57:54 2019 -0500
+
+    put some finishing touches
+
+commit d6a079e2d08b0e067b372e5ac9a35435c602fd47
+Merge: 8e692f6 77f1e63
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 21:34:10 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 8e692f6020a37344585a98f701e57354a7386e6f
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 21:34:02 2019 -0500
+
+    continued working on bugs
+
+commit 77f1e6326df080da0ca1599af97ce78f9aeb37f6
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 21:14:50 2019 -0500
+
+    comment out
+
+commit 4d3fa9213af7d4bdd3872b4820938eccdc05ab62
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 21:10:58 2019 -0500
+
+    made world private
+
+commit da1e64ba06b8329699d77c65d605520da80ed3c9
+Merge: 081259b 7f0735d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 20:32:03 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 081259b2a078ef60801dec6013763b416ca4c023
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 20:31:55 2019 -0500
+
+    updated test, put in some print test code
+
+commit 7f0735d4a1cbeb209ebeb6da3c2c27663bc597cd
+Merge: 63baea5 c24a326
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 20:29:43 2019 -0500
+
+    fixed setmem
+
+commit 63baea55b78ad01ba2a84ac910e21c9104885a23
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 20:29:06 2019 -0500
+
+    setmem fixed
+
+commit c24a326b96b51c527b9a379a970c79b65920833c
+Merge: 77e3271 52e1690
+Author: samkantor123 <sammy@dhcp-clara-4452.redrover.cornell.edu>
+Date:   Wed Nov 6 20:23:46 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 77e32719b14d742145f36e5a57d274733d40b821
+Author: samkantor123 <sammy@dhcp-clara-4452.redrover.cornell.edu>
+Date:   Wed Nov 6 20:23:33 2019 -0500
+
+    addded interpreter simple tests
+    
+    addded interpreter simple tests
+
+commit 52e1690212a908999f7c44bc4eb37a720d7f48b2
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 20:23:16 2019 -0500
+
+    fix arraycopy
+
+commit e1acdeed522d4d063b86e5999fbf0d56bb1827e9
+Merge: 66c965a 3afa5d3
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 20:09:26 2019 -0500
+
+    merge
+
+commit 3afa5d3a9b7915e3a3b36f488e314ea1fa77dabd
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 20:08:52 2019 -0500
+
+    fixed conversion error critter
+
+commit 66c965a0282f42155ee172337fa4bcb67fe89e2a
+Merge: 6632fb1 b7e9ec0
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 20:08:24 2019 -0500
+
+    merge
+
+commit 6632fb172c3b644e50622fa87098bd36fc0bce32
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 20:02:06 2019 -0500
+
+    fix get memory
+
+commit b7e9ec03619147b8069afb1d675089aa4f27ed96
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 19:54:30 2019 -0500
+
+    continued working on tests
+
+commit c3a9b85fbf1609a4119a71d6ac89bdd755a293c7
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 17:27:24 2019 -0500
+
+    added a test class comment
+
+commit 65d0a4c311e33f1be625b192b1318c912eb8a81d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 17:21:52 2019 -0500
+
+    added functionality whereby 0 or negative food becomes an empty tile
+
+commit 433e591196438cf7b5076c03f71200d84e7ecc1c
+Merge: 275cd63 630e2b6
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 16:48:22 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 275cd63cb5b52356a693c2c49fe7d93a1957909e
+Merge: 1f7ba54 cb18bc7
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 16:48:19 2019 -0500
+
+    merge
+
+commit 630e2b6db3f7e94e03e6040173f1c7bbb60d61cb
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 16:47:37 2019 -0500
+
+    changed name of function to setPass
+
+commit 8204de99bb397389d7332399c762c1ac2e74c768
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 16:43:50 2019 -0500
+
+    uncommented energy checker'
+
+commit cb18bc73066e644f48f5c54dd5cf0982dfa07910
+Merge: 076c7e7 2fdce7c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 16:26:33 2019 -0500
+
+    should have merged
+
+commit 076c7e73dcaf36dca072145a7279bbadb95a1a67
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 16:24:25 2019 -0500
+
+    attempted debugging interpreter
+
+commit 1f7ba54f11b131c4627306026c2d7b0fe8a28b71
+Merge: cfdfdc9 2fdce7c
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 16:11:48 2019 -0500
+
+    merge
+
+commit cfdfdc95d8ad6634d23fa03755074c6866723c58
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 16:08:32 2019 -0500
+
+    changes on desktop
+
+commit 2fdce7c127b43d5aa323142bb9def6c307420b43
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Nov 6 16:06:19 2019 -0500
+
+    fix same reference critters
+
+commit 766f1f153702181774014bc56b539c90f16c1bc6
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 13:27:26 2019 -0500
+
+    added more controller tests
+
+commit c94dedb854a87681079ed3c07aecf4812f916e19
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Nov 6 10:06:41 2019 -0500
+
+    removed test files from top level directory
+
+commit ebf7c1c3af9ca8f401312f380542c41575ffab26
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 5 19:18:32 2019 -0500
+
+    fixed killcritter not stopping action, critters being born or killed in queue not given a turn
+
+commit f445de10c3b74d2eb90459303469ac0c11180391
+Merge: 1a17e39 62aaa97
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 5 16:36:26 2019 -0500
+
+    merge
+
+commit 1a17e395add691651d82493ac41c12d06ba9ec55
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 5 16:32:54 2019 -0500
+
+    more testing
+
+commit 62aaa97b437a344d659a5ef4ea1bfbaf73953959
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 5 16:01:30 2019 -0500
+
+    updated rock and food to only place if tile is empty in Controller'
+
+commit da682571e0ce812fc68c5f05a15b47abe18c962d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 5 15:58:49 2019 -0500
+
+    added javadoc to CritterImpl and Worldimpl where it was lacking; fixed Controller parseWorld and parseCritter; updated error text to be more specific and pretty; fixed error on placing new object over old one
+
+commit 6a506bc72bbee46dde08c7f74478fa658aad3616
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Nov 5 11:09:04 2019 -0500
+
+    began debugging controller
+
+commit 417a46e4c3a74d38d7f1df9c533e445603c5a415
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 5 00:45:02 2019 -0500
+
+    move test files into root resources dir
+
+commit 262f160266fbb11ce5f98171baca95924851272c
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Nov 5 00:25:43 2019 -0500
+
+    fixed bugs, added test, pass changeEnergy and out of bounds autograder now
+
+commit 7c854d7b7cfa458d9299eea5310a867c97e607f5
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 4 20:20:06 2019 -0500
+
+    fix getTerrainInfo
+
+commit 96b42f571000ed6b2dcfb6f86514e2122d7fe670
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 4 19:59:38 2019 -0500
+
+    numRows done
+
+commit dfb18fd154fc91dc9b2c86014d009292b2cdf4b2
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 4 17:51:12 2019 -0500
+
+    fix inBounds for negatives
+
+commit ff7d838d49996bdda0e252f72b917bdbac0c1f70
+Merge: 5280955 ad6b75b
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 4 17:41:34 2019 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 5280955443f8a451d0cc25bc0338956d2e5cb580
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 4 17:40:40 2019 -0500
+
+    mate done
+
+commit ad6b75b5989a4043d02cd83bfd6052dbb3610bca
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Nov 4 11:44:27 2019 -0500
+
+    added HexTile field and boolean getters so as to not use instanceof when determining tile type
+
+commit 007a5cec04b2bd95bab8173a05f4d50026a85d66
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Nov 4 11:43:28 2019 -0500
+
+    added HexTile field and boolean getters so as to not use instanceof when determining tile type
+
+commit d21464293328e786b446c19e7bb5dfd904666d41
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Mon Nov 4 00:58:31 2019 -0500
+
+    critter actions done, except mate
+
+commit 34398ffa9f10de4a44916fb15436b693893c98cd
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 3 18:02:45 2019 -0500
+
+    reverting back to critter knowing about world
+
+commit 6bb6247765c4543bc9c9d6a7be94f36361f02af1
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 3 17:06:04 2019 -0500
+
+    worked more on state transition; tried to change module dependency, seems infeasible
+
+commit 4e799f8307006278adf8b7926689d8f5cd13de55
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sun Nov 3 00:13:34 2019 -0400
+
+    misc fixes; passtime->moved interpreter to model->(design change)
+
+commit 33347a54581a206acf6c97c33919cd93b7df361c
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 2 23:37:50 2019 -0400
+
+    world state tentatively done
+
+commit 7e14841a050564ef20b1315ef08295e9cfa59708
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Nov 2 21:59:31 2019 -0400
+
+    basic critter state, world state done; hexgrid done
+
+commit 71ee3952bcd9fae675d7b1d2bff4637f10295794
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Fri Nov 1 10:32:40 2019 -0400
+
+    fixed CritterImpl
+
+commit 97dd03ae666766eaa5cc64474555244c1faf63b6
+Merge: 3ba4c4d 24ef2c4
+Author: samkantor123 <sammy@Sams-MacBook-Pro-2.local>
+Date:   Fri Nov 1 02:16:47 2019 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit 3ba4c4dfeaed6be098b7ca71778fa40cef234135
+Author: samkantor123 <sammy@Sams-MacBook-Pro-2.local>
+Date:   Fri Nov 1 02:16:12 2019 -0400
+
+    Small Fixes To Interpretation
+    
+    Small Fixes To Interpretation
+
+commit 24ef2c4d21fc6f7d37df93f3c9d435c4faa1b9ca
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Thu Oct 31 10:17:32 2019 -0400
+
+    fixed some controller error messages
+
+commit 77210cc6cdca918a11229782d957a8abcce2e543
+Author: samkantor123 <sammy@dhcp-gs-7054.redrover.cornell.edu>
+Date:   Thu Oct 31 03:58:44 2019 -0400
+
+    Added Interpreter!
+    
+    Draft of added interpreter functionality. Still needs debugging
+
+commit 53910d272a95518b5fe1d36191255d1f9a23ea26
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Oct 30 14:51:39 2019 -0400
+
+    finished ControllerImpl, tested coordinate math, need more tests, added more methods to ReadOnlyWorld'
+    '
+
+commit ac10fd093c34631a8095b86fee4e96e035d55299
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 29 18:06:15 2019 -0400
+
+    added more model methods, added better error messages in ControllerImpl. Untested but done except print
+
+commit 9e4a8e4f77463372333dba7c3e9954b9131898fe
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 29 17:19:09 2019 -0400
+
+    Added methods to model interfaces, created model constructors, model factory class, finished all methods (untested*) in ControllerImpl except print
+
+commit 35ee4fbb50ff4d3d3748cad1e9a5ded94f47ecc7
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 29 10:45:37 2019 -0400
+
+    created World interface, renamed CritterInterface to Critter
+
+commit 9fff5bdce4358899cc499bc6fc5c46153dfdeb14
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Oct 28 17:42:33 2019 -0400
+
+    updated ReadOnlyCritter
+
+commit 4d594d1bb22e24a8d19d401b804b86f2d0b132a3
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Oct 28 17:26:32 2019 -0400
+
+    created CritterInterface
+
+commit 0266522a90478c3f95b48de3bbdb10128770cfce
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Oct 26 11:25:24 2019 -0400
+
+    put a5 files into this a4/critterworld repo
+
+commit 8a8698de62ae3eab4804a40bfc5864f9bb59f9bb
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 23:04:24 2019 -0400
+
+    fix comment test error
+
+commit 0567a38cce43ccb3649eb364001844aad9693aa1
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 22:46:40 2019 -0400
+
+    misc
+
+commit 098004b6d2e01eb4edbd22b58c90d157cb6d3ed2
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 22:36:47 2019 -0400
+
+    fixed negatives
+
+commit f78ecc572258fac659e1555412a77e7fac6653b0
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 22:23:55 2019 -0400
+
+    added more mutation tests
+
+commit 5955a687070fddcf819f7afd203288dd36d68dae
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 21:31:30 2019 -0400
+
+    fixed mutation to pass autograder
+
+commit ae3926f38192d20a4b54df2d47b429aacf582c80
+Merge: bb4a84a 051f506
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 20:52:25 2019 -0400
+
+    merge
+
+commit bb4a84ac4eebf67a17867c76f8b5f43d5a5c9ab6
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 20:48:12 2019 -0400
+
+    fixed bugs in mutations
+
+commit 051f506f9606ff26280394c12eefdf48fa4f8cae
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 20:28:44 2019 -0400
+
+    Fixed clone method, added clone tests to ParserTest
+
+commit 00a7eeb3cd77c257c65963e912cd5c03bcfac298
+Merge: 451a2f6 3ee706c
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 17:35:28 2019 -0400
+
+    merged
+
+commit 451a2f614b3d01cb26b7dfa762a4f29d2c5d7630
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 17:30:48 2019 -0400
+
+    worked on mutations
+
+commit 3ee706c2621422ee2785e076be03198daa4c1bf5
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 17:30:04 2019 -0400
+
+    continued working on tests, nodeAt
+
+commit 3debfd3cffc0d64722266b007d8282b09c2e3049
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 16:22:59 2019 -0400
+
+    fixed nodeAt
+
+commit 8c9f07e7e7effa62c69f9786cd3256df59d61d7d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 16:20:26 2019 -0400
+
+    fixed nodeat
+
+commit 5d384fac70a229a2471660aaa066c9750b29ee03
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 16:11:52 2019 -0400
+
+    uncommented tests in ParserTest
+
+commit a03c65bb1cb98c3739b1edbb00b4f76c026944a2
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 16:10:49 2019 -0400
+
+    fixed hasParentheses method in Expr
+
+commit 6f793c4ac932f7972573d904c4c4868470e843a4
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 16:02:34 2019 -0400
+
+    fixed BinaryArithmetic prettyprint
+
+commit 3e1deb0a6ef61bc5ffd5fb2afaa7c5933d727cd4
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 15:12:51 2019 -0400
+
+    continued working on parser and prettyprint
+
+commit d97e23d2202e4292c12e0ef7062f2b8052f427cf
+Merge: 6d58cd7 8f4adf7
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 14:03:00 2019 -0400
+
+    merged
+
+commit 6d58cd7a17b9bb952404171b837abc003893c08e
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 14:01:56 2019 -0400
+
+    implemented clone
+
+commit 8f4adf7f209dbbb197674019fc218a22f00995a3
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 12:48:06 2019 -0400
+
+    removed spaces between brackets and expressions in prettyprint
+
+commit 41b6230aebebcd548606532f2da8789935ea4567
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 12:46:22 2019 -0400
+
+    fixed error in Command prettyprint
+
+commit c55a7e07d8e962b47856e6c935691dd205398e5d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 12:32:28 2019 -0400
+
+    removed some git text from Condition
+
+commit b58303793fb4d2c6ce37134274d25bb6a96d52d0
+Merge: 3d31790 a1bf19e
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 12:31:30 2019 -0400
+
+    trying to merge pretty print
+
+commit 3d3179063fe9c68e32d419bb3ad4b2ba069a6e59
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 22 12:26:30 2019 -0400
+
+    updated pretty-print methods
+
+commit a1bf19e7a8f58e96a35bda755fb0edc184c34fe5
+Merge: 71aed36 9896da7
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 12:09:55 2019 -0400
+
+    merged
+
+commit 71aed36236027a36cf968a063a620907317b94a0
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Tue Oct 22 12:07:40 2019 -0400
+
+    added extra cases for mutations
+
+commit 9896da7a26586ec0b3d539d4587f60baa075f4ce
+Author: samkantor123 <sammy@dhcp-gs-8781.redrover.cornell.edu>
+Date:   Tue Oct 22 00:24:28 2019 -0400
+
+    Update Action.java
+    
+    Slight modification
+
+commit fe96a9228dd6aa963f59a46c43858e42de3fbbec
+Author: samkantor123 <sammy@dhcp-gs-8781.redrover.cornell.edu>
+Date:   Tue Oct 22 00:17:45 2019 -0400
+
+    Added Pretty Print
+    
+    Added Pretty Print
+
+commit e1b1c65ab2a153c266ec82f44d6cd6169ffd50bf
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Oct 21 21:09:04 2019 -0400
+
+    Continued working on tests, updated Tokenizer to not run into infinite loop on comments
+
+commit 366741ff723d7e7caab9a6a084d3a9eb2f752672
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Oct 21 17:10:59 2019 -0400
+
+    made a few more Parser Tests
+
+commit e7f7f7fbcda0ca59d8404b035a9f198d7f35c3b6
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Oct 21 16:17:18 2019 -0400
+
+    finished parser draft, need to test
+
+commit 52a3d654bbc44a3e21035bf389f64a01e544d78f
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Oct 21 14:05:21 2019 -0400
+
+    changed parent node javadoc to allow for null
+
+commit 417a6ec5ce229a399615afb7ff7cad700b8ed1e1
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Oct 21 13:57:55 2019 -0400
+
+    changed constructors on IndexNotation
+
+commit b50ed860ae2d6a769f9729ff4e2c93ebbabd02e1
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Oct 21 13:52:54 2019 -0400
+
+    Modified Action node structure and constructors
+
+commit 22f151a4a37893a9e53a77c86c16581fe9d29dc9
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Oct 21 13:42:53 2019 -0400
+
+    fixed typo in IndexNotation javadoc
+
+commit ccc2f4b37274cd01adc8c3218bbb3433fdcd269d
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Oct 21 13:41:32 2019 -0400
+
+    made IndexNotation extend Expr instead of AbstractNode
+
+commit 7ec34b851f0f427c5f023daba0d6dde640f26655
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Mon Oct 21 13:37:11 2019 -0400
+
+    added fields to Condition class, continued work on parserImpl
+
+commit 6752906a613d5556d969f4138b9cc430ec720c8c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Oct 20 21:43:17 2019 -0400
+
+    continued work on parser
+
+commit b522f3ab925a1c7a8837427fe557e78ffb4bd4a9
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Oct 20 20:07:33 2019 -0400
+
+    created AST classes
+
+commit aab7cc5900c34c8510c1a2c8f888a2106d1141ae
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Oct 20 17:01:37 2019 -0400
+
+    updated .gitignore
+
+commit bda5b53486d32d307a68aaa07a34ef0f87cadeb4
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sun Oct 20 16:56:51 2019 -0400
+
+    Updated mutate and main app
+
+commit 85d5ebb47c3a47ddcdf6bd9f9f0f7140bbea73fa
+Author: Sam Kantor <sammy@dhcp-gs-6127.redrover.cornell.edu>
+Date:   Sun Oct 20 16:05:25 2019 -0400
+
+    updated parse and mutate
+
+commit 6cb9b011ce516e77a5a0df2a43538813b84ee2c4
+Merge: d8880a6 e9f752e
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Oct 19 22:16:18 2019 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-19fa-teams/eo255-jl2627-sk2467-a4
+
+commit d8880a665d67ec09aab02d0ae76687bf8cb829bc
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Oct 19 21:45:15 2019 -0400
+
+    cleaned up duplicate, current version of mutation done
+
+commit c7b8185f1ecbdc7795313f2101a948390cb5cc2c
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Sat Oct 19 21:04:27 2019 -0400
+
+    tests for mutation done, cant run them yet
+
+commit e9f752e1afd1b5b43dba85a8a358377d773596f2
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Sat Oct 19 11:14:34 2019 -0400
+
+    updated EOL comment functionality to be more consistent
+
+commit 7ef65265ef9f25f5dad374c859506f49dc40db47
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Fri Oct 18 16:24:50 2019 -0400
+
+    finished early version of replace, swap, duplicate, untested
+
+commit 428c74b4fdc9037a8396557c634da8238511acc5
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Fri Oct 18 11:41:07 2019 -0400
+
+    tentative new node abstractions on different branch
+
+commit 1b11f02122317d8b45d1e28b63a94ac6e22675d7
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Thu Oct 17 18:13:53 2019 -0400
+
+    simplified mutation skeleton code, started work on mutation concrete classes
+
+commit 699ed7db71dcac3435cd5a8d263fe4d92ede9d84
+Author: Jackie Liu <jl2627@cornell.edu>
+Date:   Wed Oct 16 18:42:59 2019 -0400
+
+    changed email to cu email
+
+commit 59c5395fcba6e61c9a274aee1099b49b502cc9a6
+Author: Jackie Liu <jackyli742@gmail.com>
+Date:   Wed Oct 16 18:39:39 2019 -0400
+
+    skeleton mutation code complete, untested
+
+commit ded3739dc36120da5d58b75b50d19e5595df647f
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Oct 16 12:30:19 2019 -0400
+
+    continued working on ParserImpl
+
+commit 48041982b9ee73d2873aaf10186f4e7276201a6f
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Wed Oct 16 12:14:58 2019 -0400
+
+    Implemented most of abstractNode, working on parserImpl
+
+commit 0c909d36e65c905aee6082c3c5d4633e84bd51c2
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 15 22:52:45 2019 -0400
+
+    added tokenizer eol comment functionality
+
+commit cd05a9f4f0e36d3a65f0d0fd8aa19ffcfe26133c
+Author: Eric Osband <eo255@cornell.edu>
+Date:   Tue Oct 15 16:54:45 2019 -0400
+
+    initial commit
+
+commit ef7df5f417ee817e6e072adadea5de3818c02c22
+Author: Lucia Gomez <ilg7@cornell.edu>
+Date:   Mon Oct 14 13:18:35 2019 -0400
+
+    Initial commit

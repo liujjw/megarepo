@@ -1,0 +1,11 @@
+/.gradle/
+/build/
+tombuild
+.gradle
+gradle
+content
+.classpath
+.project
+.settings
+/bin/
+*.class
