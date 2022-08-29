@@ -1,0 +1,15 @@
+->B: AB
+->C: ABEFC
+->D: AD
+->E: ABE
+->F: ABEF
+->G: ADG
+->H: ADGH
+->I: unreachable
+
+->B: ACB
+->C: AC
+->D: ACD
+->E: AE
+->F: AEF
+->G: ACG

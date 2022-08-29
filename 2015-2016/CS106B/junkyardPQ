@@ -1,0 +1,47 @@
+    ListNode* curNode = front;
+    if(curNode == NULL) {
+        throw "Empty queue.";
+    }
+    ListNode* hiPriNode = curNode;
+    ListNode* linkerNode = curNode;
+
+    while(curNode->next != NULL) {
+        if(curNode->next->priority < hiPriNode->priority) {
+            hiPriNode = curNode->next;
+            linkerNode = curNode;
+        }
+        curNode = curNode->next;
+    }
+    if(hiPriNode = linkerNode) {
+        front = hiPriNode->next;
+        string value = hiPriNode->value;
+        delete hiPriNode;
+        return value;
+    } else {
+        linkerNode->next = hiPriNode->next;
+        string val = hiPriNode->value;
+        delete hiPriNode;
+        return val;
+    }
+
+
+
+
+
+    else if(curNode->next == NULL) {
+        string s = curNode->value;
+        delete curNode;
+        front = NULL;
+        return s; // if only one node, return its val and delete it, set front to null
+    }
+
+
+    else if(childIndex2 > arraySize) { // make sure second child isnt past size
+            break;
+        } else if((array[curPQIndex].priority > array[childIndex2].priority) ||
+                  (array[curPQIndex].priority == array[childIndex2].priority
+                   && array[curPQIndex].value > array[childIndex2].value)) {
+            swapIndex = childIndex2;
+        } else {
+            break;
+        }

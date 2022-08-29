@@ -1,0 +1,55 @@
+0.  TODO
+    Verbatim from the "cs50" directory on the appliance: "According to Merriam-Webster's Medical Dictionary,
+    pneumonoultramicroscopicsilicovolcanoconiosis is a pneumoconiosis caused by inhalation of very fine
+    silicate or quartz dust".
+
+1.  TODO
+    "getrusage" returns the certain resource usage statistics of some argument "who" into the "rusage" struct;
+    such statistics include the user or kernel CPU time used or stack size. The implication of this could be that we can
+    measure things like the run time of our speller program for benchmarking.
+    
+2.  TODO
+    There are 16 members in "struct rusage".
+
+3.  TODO
+    The reason we pass in only the pointer is that the entire value of the struct passed in would be relatively large (it has 16 member values), and using only the address pointer would be faster and use relatively less resources (a copy of the values will need not be made).   
+
+4.  TODO
+    First, in a for loop an int c implicitly casts the character in our text to an int(its ASCII value), which we will then retrieve one 
+    character at a time with fgetc until we reach the end-of-file marker. With the int value of our first char in text, 
+    we check with isalpha if our int c is a letter ASCII value, or if it's an apostrophe. If true, then we append our char to our 
+    index'th(initialized to 0) place in our word buffer and increment the index. Within that check, we also continually check
+    if our index, and thereby our word buffer, has become longer than LENGTH(45) and implicitly terminate the process while
+    EOF is not reached and reset our index for a different word. In this case, we will loop back to our for loop and redo the process.
+    A subsequent else if loop checks if the current word has a digit in it, which we will then ignore and reset. Finally, if we passes all 
+    those above conditions, we will reach an else if loop to check if we have a word wherein index is greater than 0. If true, we will complete 
+    the word by adding a null terminator, update the word counter and check the spelling along with our getrusage statistics. If our 
+    word is misspelled, then we will print it to the screen, else we will just reset and look for the next word.
+
+5.  TODO
+    Simply relying on "sscanf", we could read in digits and other characters not accepted as words, wherein if we have to check
+    after we read it in we would have wasted time if it were not a word.
+
+6.  TODO
+    "const" is a type qualifier that defines its argument as to not be modified in the program; it is constant. With regards to check and load, "const" would refer to the the value pointed to in the parameter, meaning that whatever the value, we cannot modify; we can only modify what the pointer is pointing to. Therefore, this allows us to preserve the integrity of the parameters word and dictionary, wherein we would not cheat ourselves or risk damaging something like, for example, the original state of a word passed in to the spell checker.
+      
+7.  TODO
+    I used a hash table implementation. I created a hash table of SIZE nodes at each index, where SIZE was any constant size of the hash table.
+    Inside each node, there was an array for LENGTH + 1 characters (where LENGTH was the length of the longest word) and a pointer to another  node in the same hash index for linked list functionality.
+
+8.  TODO
+    My code was noticeably slower the first time it was working semi-properly (while this may not qualify as working properly, the code was  working save for just a few bugs where the speller only printed about 90% of the misspelled words, and furthermore more importantly I optimized my code for speed during the time this bug was still not fixed, and finally I doubt fixing the bug caused any big speed improvements, if not the code actually became slower as it had to check the last 10% of words.) For example, running austinpowers.txt gave took 0.28 seconds on one run, and after the final fixes were made it was about 33% faster at 0.18 seconds. Another example would be the kjv.txt, where at first it was at 4.50 seconds with only ~29000 misspelled words versus the full breadth of 33441 words at its fastest, 2.81 seconds. Finally, a noteworthy aside is that my code ran about 0.10 seconds faster consistently on smaller files like austinpowers.txt and xueqin1, whereas in the larger files (shakespeare.txt comes to mind), this role was reversed.
+    
+9.  TODO
+    I made what I believe as only a few small improvements conducive to a decent speed improvement. Three of the improvements I made are as follows:
+        1. Hash table size was drastically increased from about 10000 to 100000. I found that larger hash table sizes produced a dubious speed  improvement in hundredths of a second that all added up. However, I could not make a hash table too big, lest I would need to add more complex and therefore slower arithmetic to the hash function to produce a large enough number warranting a modulo of the large hash table size. I also found that using prime numbers was over two times as fast as a non-prime hash table size (0.20 austinpowers.txt to 0.58 non-prime even number). However, I have yet to explore the intricacies of using prime numbers.
+        
+        2. I looked up bitwise operators and used a bitwise leftshift to be equivalent to multiplying by 2. Bitwise functions, based on comments from stackoverflow and miscellaneous sites on the web, are faster than regular arithmetic.
+        
+        3. I made miscellaneous changes that seemed to fix some bugs and/or improve speed in the process. Bugs included not printing out the correct number of misspelled words (making sure dictionary word also ended, lest the dictionary word contained the check word and did not actually include the sole check word, nulled temporary pointers, etc.) and a seg fault (&& instead of || checking for NULL char in word and dictionary word).
+
+
+10. TODO
+    My code's shortest running time was never less than 0.10 seconds, even for the few bytes text pneumonoultramicroscopicsilicovolcanoconiosis.txt. The aforementioned took around 0.13 seconds, whereas austinpowers.txt, an entire movie script, took 0.16 seconds at its fastest. My contention is that something seems to always be running at least 0.10 seconds on top of the actual spell checking. 
+
+// CHECKED WITH PSET5 SPELLER :)

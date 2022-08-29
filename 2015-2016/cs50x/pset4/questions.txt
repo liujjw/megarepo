@@ -1,0 +1,86 @@
+/**
+*crimson_black 
+*8/20/15
+*
+*Answers to questions in PSET_4.
+*/
+
+0.  TODO
+// JPEGs and PNGs all support 16 million colors, as they are 24 bit.
+// GIFs support 256 colors, as they are only 8 bit.
+// BMPs support up to 4 billion colors, as they support up to 32 bits.
+
+1.  TODO
+// GIFs support animation.
+
+2.  TODO
+// With lossless compression, an image is compressed with
+// perfect original quality, whereas lossy compression involves  
+// a loss of quality in favor of a smaller file size.
+
+3.  TODO
+// JPEGs are lossy-compressed.
+
+4.  TODO
+// In a FAT file system, when a file is "deleted" it contents are never 
+// actually erased; they stay intact. Instead, two things occur: The filename's first
+// character is modified to signal that the file's directory entry is deleted 
+// and can be recycled (the metadata); second, the actual file clusters making up the file 
+// are moved to the hard drive's free clusters to be used again. Thus, the file
+// is still technically accessible in the free clusters.
+
+5.  TODO
+// Free and commercially available disk sanitization tools are relatively effective 
+// ways the average user could ensure proper file deletion without turning to hard 
+// drive destruction (many such tools aim to overwrite data with special random 
+// patterns so as to make the original data undiscernable). 
+
+6.  TODO
+// stdint.h is a header file which includes typedefs that specify exact-
+// width integer types, since the sizes of our primitive integer types are 
+// restrained to system-specific implementations. "stdint.h" allows for more
+// "portable" code since they are defined regardless of the environment.
+
+7.  TODO
+// Using uint8_t, unint32_t, etc. as aliases to our primitive data types
+// allows defining of the sizes(in terms of bits and bytes) of the integer 
+// types in the program, lest the sizes in the environment the program is 
+// run in are different from the standard C library ones.
+
+8.  TODO
+// A BYTE is 1 byte; a DWORD is 4 bytes; a LONG is 4 bytes; a WORD is 2 bytes.
+
+9.  TODO
+// The first two bytes of the BMP must be 19778 (in hex: 0xd42).
+
+10. TODO
+// bfSize is a part of the BITMAPFILEHEADER structure and details the 
+// size of the entire bitmap file. biSize is a part of the BITMAPINFOHEADER structure
+// and details the number of bytes required only by the structure.
+
+11. TODO
+// If biHeight is negative, the bitmap file is ordered from top-down,
+// with it's origin at the upper left corner.
+
+12. TODO
+// biBitCount specifies the BMP's color depth in BITMAPINFOHEADER.
+
+13. TODO
+// fOpen might return NULL if a file couldn't be created.
+
+14. TODO
+// The third arguement to fread is always 1 because, after looking 
+// at arguement 2, specifies to read through the header only once. 
+
+15. TODO
+// Padding will be assigned 3.
+
+16. TODO
+// fseek allows you to change the location of the fie pointer in a file.
+
+17. TODO
+// SEEK_CUR is an arguement in the function fseek that changes the location
+// of the pointer from its current location.
+
+18. TODO
+// Rob Bowden WAS BEHIND IT ALL!!!

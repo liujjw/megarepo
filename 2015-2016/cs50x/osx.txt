@@ -1,0 +1,10 @@
+
+    Download .dmg file
+    Open .dmg file
+    Drag the Sublime Text 3 bundle into the Applications folder
+
+To create a symbolic link to use at the command line issue the following command at the terminal:
+
+ln -s  "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+
+		

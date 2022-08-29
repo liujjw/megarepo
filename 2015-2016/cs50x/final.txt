@@ -1,0 +1,10 @@
+
+    
+    printf("This is whaat u sayd \"%s\"\n", in);
+    return 0;
+    string in = GetString();
+#include <cs50.h>
+#include <stdio.h>
+int main(int argc, string argv[])
+{
+}   

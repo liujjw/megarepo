@@ -1,0 +1,4 @@
+Hey this is a test to see if remove comments * and / are working.
+// they should be working
+// im feeling very bad about it honestly
+/*NO matter*/ its all good

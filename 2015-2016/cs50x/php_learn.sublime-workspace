@@ -1,0 +1,662 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user_",
+				"user_history"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"user",
+				"user_history"
+			],
+			[
+				"tra",
+				"transaction_id"
+			],
+			[
+				"sym",
+				"symbols"
+			],
+			[
+				"get_define",
+				"get_defined_vars"
+			],
+			[
+				"stocks",
+				"stocks_to_sell"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"Content",
+				"Content-Type"
+			],
+			[
+				"dot",
+				"dot_xyz"
+			],
+			[
+				"root",
+				"root_nul"
+			],
+			[
+				"abso",
+				"absolute_path"
+			],
+			[
+				"abs",
+				"absolute_path"
+			],
+			[
+				"absolute",
+				"absolute-path"
+			],
+			[
+				"strc",
+				"strcpy"
+			],
+			[
+				"ab",
+				"absolute-path"
+			],
+			[
+				"Li",
+				"LimitRequestFieldSize"
+			],
+			[
+				"req",
+				"request_target"
+			],
+			[
+				"LIMITR",
+				"LimitRequestFieldSize"
+			],
+			[
+				"is",
+				"is_http"
+			],
+			[
+				"request",
+				"request_buffer"
+			],
+			[
+				"HTTP",
+				"HTTP_11"
+			],
+			[
+				"HT",
+				"HTTP_11"
+			],
+			[
+				"line",
+				"line_ptr"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"real",
+				"real_word"
+			],
+			[
+				"counter",
+				"counter_SIZE"
+			],
+			[
+				"hash",
+				"hash_function_const"
+			],
+			[
+				"dico",
+				"dictionary_word"
+			],
+			[
+				"dictioanry",
+				"dictionary_word"
+			],
+			[
+				"dictionary",
+				"dictionary_word"
+			],
+			[
+				"next",
+				"next_one"
+			],
+			[
+				"haed",
+				"head_cmp"
+			],
+			[
+				"head",
+				"head_cmp"
+			],
+			[
+				"char",
+				"characters"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.php",
+			"settings":
+			{
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test2.php",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "action.php",
+			"settings":
+			{
+				"buffer_size": 64,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+			"sublime.version()",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jharvard/Dropbox/pset8/test.js",
+		"/home/jharvard/Dropbox/osx.txt",
+		"/home/jharvard/Dropbox/pset8/public/index.html",
+		"/home/jharvard/Dropbox/pset8/includes/functions.php",
+		"/home/jharvard/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/jharvard/Dropbox/test.js",
+		"/home/jharvard/Dropbox/pset8/test",
+		"/home/jharvard/.config/sublime-text-3/Installed Packages/0_package_control_loader.sublime-package",
+		"/home/jharvard/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jharvard/Dropbox/pset1/greedy.c",
+		"/home/jharvard/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/jharvard/Dropbox/pset8/bin/import",
+		"/home/jharvard/Dropbox/pset7/templates/quote_form.php",
+		"/home/jharvard/Dropbox/pset7/templates/password_change.php",
+		"/home/jharvard/Dropbox/pset7/templates/sell_form.php",
+		"/home/jharvard/Dropbox/pset7/templates/footer.php",
+		"/home/jharvard/Dropbox/pset7/templates/buy_form.php",
+		"/home/jharvard/Dropbox/pset7/templates/quote_display.php",
+		"/home/jharvard/Dropbox/pset7/templates/header.php",
+		"/home/jharvard/Dropbox/pset7/public/buy.php",
+		"/home/jharvard/Dropbox/pset7/public/css/bootstrap.css",
+		"/home/jharvard/Dropbox/pset7/public/img/favicon.ico",
+		"/home/jharvard/Dropbox/pset6/server.c",
+		"/home/jharvard/Dropbox/pset6/public/speller.php",
+		"/home/jharvard/Dropbox/pset6/public/php_spellcheck_funcs.php",
+		"/home/jharvard/Dropbox/pset6/public/froshim's.html",
+		"/home/jharvard/Dropbox/pset7/public/history.php",
+		"/home/jharvard/Dropbox/pset7/templates/history_table.php",
+		"/home/jharvard/Dropbox/pset7/public/sell.php",
+		"/home/jharvard/Dropbox/pset7/public/index.php",
+		"/home/jharvard/Dropbox/pset7/public/logout.php",
+		"/home/jharvard/Dropbox/pset7/includes/config.php",
+		"/home/jharvard/Dropbox/pset7/public/quote.php",
+		"/home/jharvard/Dropbox/pset7/templates/portfolio.php",
+		"/home/jharvard/Dropbox/pset7/public/register.php",
+		"/home/jharvard/Dropbox/pset7/templates/password_change_success.php",
+		"/home/jharvard/Dropbox/pset7/public/login.php",
+		"/home/jharvard/Dropbox/pset7/public/css/styles.css",
+		"/home/jharvard/Dropbox/pset7/includes/functions.php",
+		"/home/jharvard/Dropbox/pset7/templates/register_form.php",
+		"/home/jharvard/Dropbox/pset7/public/img/logo.gif",
+		"/home/jharvard/Dropbox/pset7/public/img/logo.png",
+		"/home/jharvard/Dropbox/pset7/templates/dump.php",
+		"/home/jharvard/Dropbox/pset7/templates/login_form.php",
+		"/home/jharvard/Dropbox/pset7/includes/constants.php",
+		"/home/jharvard/Dropbox/pset6/public/register-3.php",
+		"/home/jharvard/Dropbox/pset6/public/helpers.php",
+		"/home/jharvard/Dropbox/pset6/public/headers.php",
+		"/home/jharvard/Dropbox/pset6/public/index.php",
+		"/home/jharvard/Dropbox/pset6/public/week0.php",
+		"/home/jharvard/Dropbox/pset6/public/week1.php",
+		"/home/jharvard/Dropbox/pset6/public/lectures.php",
+		"/home/jharvard/Dropbox/pset6/public/php.php",
+		"/home/jharvard/Dropbox/ptrs.c",
+		"/home/jharvard/Dropbox/counter.php",
+		"/home/jharvard/Dropbox/pset6/public/hello.php",
+		"/home/jharvard/Dropbox/pset6/public/hello.html",
+		"/home/jharvard/Dropbox/pset6/public/README ",
+		"/home/jharvard/Dropbox/pset6/public/footer.php",
+		"/home/jharvard/Dropbox/pset6/public/google.html",
+		"/home/jharvard/Dropbox/pset6/public/cat.html",
+		"/home/jharvard/Dropbox/pset6/section7webpage.html",
+		"/home/jharvard/Dropbox/pset6/public_TEST/w3_php.php",
+		"/home/jharvard/vhosts/localhost/public/hello.html",
+		"/home/jharvard/Dropbox/pset6/public/phpfaker.html",
+		"/home/jharvard/Dropbox/queue.c",
+		"/home/jharvard/Dropbox/linkcedlistcore/linkedlist_5.c",
+		"/home/jharvard/Dropbox/linkedlist_4.c",
+		"/home/jharvard/Desktop/hello.html",
+		"/home/jharvard/Dropbox/pset5/student_charsum.txt",
+		"/home/jharvard/Dropbox/pset5/questions.txt",
+		"/home/jharvard/Dropbox/pset5/speller.c",
+		"/home/jharvard/Dropbox/pset5/smaller",
+		"/home/jharvard/Dropbox/pset5/sta.txt",
+		"/home/jharvard/Dropbox/pset5/stu.txt",
+		"/home/jharvard/Dropbox/pset5/dictionary.c",
+		"/home/jharvard/Dropbox/pset5/text.txt",
+		"/home/jharvard/Dropbox/pset5/dictionary.h",
+		"/home/cs50/pset5/dictionaries/large",
+		"/home/cs50/pset5/texts/austinpowers.txt",
+		"/home/jharvard/Dropbox/pset5/staff.txt",
+		"/home/jharvard/Dropbox/pset5/The First 10,000 Primes",
+		"/home/jharvard/Dropbox/pset5/Makefile",
+		"/home/jharvard/Dropbox/pset5/student.txt",
+		"/home/jharvard/Dropbox/hash.c",
+		"/home/jharvard/Dropbox/pset5/student.tx",
+		"/home/cs50/pset5/keys/austinpowers.txt",
+		"/home/jharvard/Dropbox/pset5/some hash functions",
+		"/home/jharvard/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	<",
+			".",
+			"ln -s  \"/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl\" /usr/local/bin/subl",
+			"create",
+			"To create a symbolic link to use at the command line issue the following command at the terminal:",
+			"</br>",
+			"div class",
+			"$location",
+			"<div class=\"col-md-3\">",
+			"> <",
+			"	<",
+			".\")",
+			"name",
+			"body",
+			"lookup",
+			"parse",
+			"501",
+			"403",
+			"501",
+			"question",
+			"f_slash",
+			"space",
+			"quotes",
+			"dot",
+			"233",
+			"load",
+			"parse",
+			"lookup",
+			"parse",
+			"handler",
+			"start",
+			"parse",
+			"request",
+			"parse",
+			"connected",
+			"parse",
+			"connected",
+			"reset",
+			"sockad",
+			"sock_add",
+			"');\n",
+			"}\n",
+			"dictionary_word",
+			"hash_function",
+			"i've",
+			"man",
+			"international",
+			"LONGESTWORD",
+			"letter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"		<div class=\"form-group\">\n",
+			"th",
+			"",
+			"><?= ?><"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "test2.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "action.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 195.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "php_learn.sublime-project",
+	"replace":
+	{
+		"height": 98.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"public/index.html"
+			],
+			[
+				"",
+				"includes/functions.php"
+			],
+			[
+				"func",
+				"includes/functions.php"
+			],
+			[
+				"index",
+				"public/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

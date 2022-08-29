@@ -1,0 +1,1 @@
+<h1><?= $_POST['name']?> is <?= $_POST['age']?> years old.</h1> 

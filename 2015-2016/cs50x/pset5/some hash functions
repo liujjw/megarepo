@@ -1,0 +1,19 @@
+        // key % SIZE = index; raw division
+        // key(key + 3) % SIZE = index; better division
+        /*
+        Multiplication Method (Cormen). Choose SIZE to be a power of 2. Let A be some random-looking real number. Knuth suggests 
+        SIZE = 0.5*(sqrt(5) - 1) [1 less than the golden ratio]. Then do the following:
+
+        s = k*golden ratio
+        x = fractional part of s
+        h(k) = floor(SIZE*x)
+        This seems to be the method that the theoreticians like.
+
+        To do this quickly with integer arithmetic, let w be the number of bits in a word (e.g. 32) and suppose SIZE is 2^p. Then compute:
+
+        s = floor(A * 2^w)
+        x = k*s
+        h(k) = x >> (w-p)      // i.e. right shift x by (w-p) bits
+        // i.e. extract the p most significant 
+        // bits from x
+        */

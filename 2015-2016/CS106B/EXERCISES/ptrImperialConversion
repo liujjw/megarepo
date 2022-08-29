@@ -1,0 +1,18 @@
+#include "simpio.h"
+#include <iostream>
+
+void convertToImperial(double meters, int & feet, double & inches);
+
+int main(){
+    int feet;
+    double inches;
+    double meters = getInteger("Provide meters: ");
+    convertToImperial(meters, feet, inches);
+    std::cout << feet << " feet, " << inches << " inches";
+}
+
+void convertToImperial(double meters, int & feet, double & inches){
+    double inchesInMeter = 1.0/0.0254;
+    feet = inchesInMeter * meters;
+    inches = (meters - int(meters)) * 12;
+}

@@ -1,0 +1,10 @@
+# small case
+7
+7
+XX—O-XX
+XX—O-XX
+-------
+---O---
+-------
+XX---XX
+XX---XX
